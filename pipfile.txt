@@ -1,0 +1,8 @@
+pipenv
+flask
+flask-migrate #extension that handles SQLAlchemy database migrations for Flask applications using Alembic
+flask-sqlalchemy #extension for Flask that adds support for SQLAlchemy to our application
+python-decouple
+psycopg2 #PostgreSQL database adapter for the Python
+gunicorn #Python WSGI HTTP Server for UNIX
+autopep8
